@@ -82,9 +82,12 @@ Currently working on:
 
 I'm always interested in connecting with fellow developers, learning from the community, and collaborating on projects.
 
-- 📧 **Email:** (Coming soon)
-- 💬 **Telegram:** (Coming soon)
-- 🔗 **GitHub:** [Finlender75-ui](https://github.com/Finlender75-ui)
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Finlender20)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Finlender75-ui)
+
+</div>
 
 ---
 

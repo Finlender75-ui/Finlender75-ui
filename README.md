@@ -4,8 +4,10 @@
   
   ![Profile views](https://komarev.com/ghpvc/?username=Finlender75-ui&color=FF6B6B&style=flat-square&label=Profile%20Views)
   ![GitHub followers](https://img.shields.io/github/followers/Finlender75-ui?style=flat-square&color=FF6B6B)
+  ![GitHub stars](https://img.shields.io/github/stars/Finlender75-ui?style=flat-square&color=FF6B6B)
 
-  <h3>🚀 Junior Frontend Developer | Continuous Learner</h3>
+  <h3>🚀 Frontend Developer | React & Modern Web Technologies</h3>
+  <p><em>Building beautiful, responsive, and performant web applications with clean code</em></p>
 
 </div>
 
@@ -13,13 +15,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Frontend Developer** who recently completed frontend training. Currently, I'm focused on building my skills and gaining practical experience through continuous learning and project work.
+I'm a passionate **Frontend Developer** dedicated to creating real-world web applications with clean, maintainable code. I specialize in building responsive interfaces, modern web experiences, and continuously improving my craft.
 
-**My Goals:**
-- 🎯 Master modern frontend technologies
-- 💡 Create clean, efficient, and user-friendly web applications
-- 📚 Build real-world projects to gain hands-on experience
-- 🤝 Collaborate with other developers and contribute to open-source
+**What I Do:**
+- 🎯 Build scalable and performant web applications
+- 💻 Create responsive designs that work seamlessly across all devices
+- 🎨 Write clean, readable, and maintainable code
+- 📚 Stay updated with the latest frontend technologies and best practices
+- 🤝 Collaborate with teams to deliver exceptional user experiences
 
 ---
 
@@ -32,55 +35,58 @@ I'm a **Junior Frontend Developer** who recently completed frontend training. Cu
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-### Frontend Skills
-- **JavaScript & React** - Building interactive and dynamic web applications
-- **HTML & CSS** - Creating responsive and semantic web pages
-- **Responsive Design** - Ensuring great UX across all devices
-- **Git & Version Control** - Managing code efficiently
+### Core Competencies
+- **Frontend Development** - Modern React applications, component architecture, state management
+- **Responsive Design** - Mobile-first approach, CSS Grid, Flexbox, media queries
+- **JavaScript Expertise** - ES6+, async/await, DOM manipulation, functional programming
+- **Version Control** - Git workflows, GitHub collaboration, code review best practices
+- **Web Performance** - Optimization techniques, lazy loading, bundle analysis
 
 ---
 
-## 📚 Learning Journey
-
-Currently working on:
-- 🔄 Improving React fundamentals and advanced patterns
-- 🔄 Strengthening JavaScript skills
-- 🔄 Learning best practices and coding standards
-- 🔄 Building portfolio projects
-
----
-
-## 🎓 Projects
+## 🎓 Featured Projects
 
 <div align="center">
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Learning Repository** | Hands-on practice and mini-projects | JavaScript, React, HTML, CSS |
-| **Portfolio Projects** | Coming soon... | React, Modern Web Dev |
+| Project Name | Description | Technologies | Link |
+|---|---|---|---|
+| **Learning Repository** | Comprehensive collection of practice projects and real-world examples | React, JavaScript, HTML, CSS | [GitHub](https://github.com/Finlender75-ui/learning) |
+| **Coming Soon** | Building innovative web applications | React, Modern Web Dev | [View](#) |
+| **Coming Soon** | Responsive and performant web solutions | Frontend Stack | [View](#) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Finlender75-ui&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Finlender75-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Finlender75-ui&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Finlender75-ui&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## 🌟 Current Focus
+
+I'm currently focused on:
+- 🔄 Mastering advanced React patterns and hooks
+- 🔄 Improving performance optimization techniques
+- 🔄 Building production-ready applications
+- 🔄 Contributing to open-source projects
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with fellow developers, learning from the community, and collaborating on projects.
+I'm always interested in connecting with fellow developers, discussing new ideas, and collaborating on exciting projects.
 
 <div align="center">
 
@@ -92,16 +98,20 @@ I'm always interested in connecting with fellow developers, learning from the co
 
 ---
 
-## 💭 Quote
+## 💡 Philosophy
 
-> "The best way to learn programming is by building projects and solving problems."
+> "Great code is like a good story - it should be easy to follow, well-structured, and leave a lasting impression. The best frontend developers don't just build interfaces; they create experiences."
 
 ---
 
 <div align="center">
 
+### 🚀 Always Learning. Always Growing. Always Building.
+
 ⭐ **If you find my work helpful, feel free to star my repositories!** ⭐
 
-*Last updated: September 2026*
+---
+
+*Last updated: September 2026 | Made with ❤️ by Temur Salimov*
 
 </div>

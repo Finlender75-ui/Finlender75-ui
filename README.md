@@ -58,19 +58,6 @@ I'm a passionate **Frontend Developer** dedicated to creating real-world web app
 | **Coming Soon** | Building innovative web applications | React, Modern Web Dev | [View](#) |
 | **Coming Soon** | Responsive and performant web solutions | Frontend Stack | [View](#) |
 
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Finlender75-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Finlender75-ui&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
